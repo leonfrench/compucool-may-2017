@@ -53,3 +53,7 @@ Optionally:
 ### SCC
 
 - [Request account](https://edc.camhx.ca/redcap/surveys/?s=XMNAYAWLW9)
+
+### Photoshop
+
+- A free 30-day trial can be downloaded from Adobe, and a full license can be bought for (a very reasonable) $9.99 USD a month. Note that while the basic principles of this course could be applied to free alternatives such as GIMP, direct translation between programs is difficult as there are many minor differences (which add up) between the programs. 
