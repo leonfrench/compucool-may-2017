@@ -5,7 +5,7 @@ layout: workshop
 
 # Managing your Experiments and Data
 
-With [Erin Dickie](mailto:erin.dickie@camh.ca) and [Jon Pipitone](mailto:jon.pipitone@camh.ca)
+With [Erin Dickie](mailto:erin.dickie@camh.ca) and [Ricardo Harripaul](mailto:R.Harripaul@camh.ca)
 
 - [Slides](https://docs.google.com/presentation/d/1wX_BFtiBWzsp2qjdoFyKptpgLDFMcnl3lyU7RwPM7kU/edit?usp=sharing)
 - [README Template](https://raw.githubusercontent.com/CAMH-SCWG/compucool/gh-pages/workshops/README.md) and as [markdown](https://github.com/CAMH-SCWG/compucool/blob/gh-pages/workshops/README.md)
