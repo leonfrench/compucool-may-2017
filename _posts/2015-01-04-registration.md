@@ -7,7 +7,7 @@ fa-icon: calendar
 
 ### Workshop Schedule and Registration
 
-The SCWG workshop series is FREE for all CAMH students, staff, and trainees using a valid CAMH email address and using the promotional code IM_FROM_CAMH at checkout. Please make sure you click the pink "Enter Promotional Code" below.
+The SCWG workshop series is FREE for all CAMH students, staff, and trainees.
 
 All others are welcome to join us for $20 per course. Questions? Email us at scwg@camh.ca
 
