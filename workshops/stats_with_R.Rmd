@@ -5,6 +5,19 @@ date: "September 11, 2016"
 output: html_document
 ---
 
+[Return to SCWG Home](https://camh-scwg.github.io/compucool-oct-2016/)
+
+-----
+
+Please download the following files:
+
+
+1. [messy_demographic.csv](data/messy_demographic.csv) 
+2. [messy_cognitive.csv](data/messy_cognitive.csv)
+3. [messy_genotype.csv](data/messy_genotype.csv)
+
+----
+
 ## Stats sesstion
 
 We need 'rms', 'ggplot2', and 'car' packages
