@@ -1,12 +1,12 @@
 ---
 title: "Intro to R tutorial"
 author: "Erin W Dickie"
-date: "September 11, 2016"
+date: "September 28, 2016"
 output: html_document
 layout: workshop
 ---
 
-# Introduction to R - with Erin!
+[Return to SCWG Home](https://camh-scwg.github.io/compucool-oct-2016/)
 
 --------
 
@@ -31,8 +31,8 @@ Also, please install here awesome R packages (again, if you don't know how pleas
 Please download the following files
 
 
-1. [messy_demographic.csv](https://github.com/CAMH-SCWG/example-party/data/messy_demographic.csv)
-2. [messy_cognitive.csv]( https://github.com/CAMH-SCWG/example-party/data/messy_cognitive.csv)
+1. [messy_demographic.csv](../data/messy_demographic.csv) 
+2. [messy_cognitive.csv](../data/messy_cognitive.csv)
 
 
 ---------
