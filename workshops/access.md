@@ -21,3 +21,15 @@ Please download the following files
 2. [workshop_filled.accdb](/data/workshop_filled.accdb)
 3. [access.ppt](/presentations/access.ppt)
 
+## Content:
+- Why store your data in a database
+- Table design
+  - Field properties
+- Easy forms
+- Simple queries
+- Importing data
+- Advanced queries
+  - Query parameters
+- Table relationships
+- Subforms
+- Macros
