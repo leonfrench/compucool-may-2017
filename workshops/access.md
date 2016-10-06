@@ -18,7 +18,7 @@ Please download the following files
 
 
 1. [Sample_Data.xlsx](/data/Sample_Data.xlsx)
-2. [workshop_filled.accdb](/data/workshop_filled.accdb)
+2. [Sample Database](/data/workshop_filled.accdb)
 3. [access.ppt](/presentations/access.ppt)
 
 ## Content:
