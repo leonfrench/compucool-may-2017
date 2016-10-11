@@ -4,6 +4,13 @@ A very short summary of the project. Just a sentence or two.
 
 Date Collected: 2014 through 2016
 
+### Contact People 
+> (Include name and email addresses) 
+* Principal Investigator:
+* Primary: (the person who ran the data)
+* Others: (the person(s) who else we might be able to ask questions of if the Primary is not reachable)
+* citation and authorship requirements if this data is used
+
 ### Dataset
 
 * description of how data is acquired
@@ -11,13 +18,6 @@ Date Collected: 2014 through 2016
 * pointers to external data used
 * Location of the raw data
 * Inclusion Exclusion Specific to this analysis  (i.e. all data collected as of..., all data for which this other variable was available...)
-
-### Contact People 
-> (Include name and email addresses) 
-* Principal Investigator:
-* Primary: (the person who ran the data)
-* Others: (the person(s) who else we might be able to ask questions of if the Primary is not reachable)
-* citation and authorship requirements if this data is used
 
 ### System on which data was run: 
 * (SciNet, TIGRlab, other?)
