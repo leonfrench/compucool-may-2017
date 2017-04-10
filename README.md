@@ -1,2 +1,2 @@
-CAMH Scientific Computing Fundamentals Workshop Series - October 4 - 13, 2016
+CAMH Scientific Computing Fundamentals Workshop Series - May 9-17, 2017
 
