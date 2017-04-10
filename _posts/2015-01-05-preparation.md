@@ -33,7 +33,7 @@ Send us <a href="mailto:jon.pipitone@camh.ca">email</a> if you are having troubl
 
 - [Git for Windows](https://git-for-windows.github.io/)
 
-Optionally: 
+# Optionally: 
 
 - [Source Tree](https://www.sourcetreeapp.com/) (Mac and Windows only)
 - [SmartGit](http://www.syntevo.com/smartgit/) (all platforms)
