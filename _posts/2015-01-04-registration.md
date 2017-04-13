@@ -10,6 +10,9 @@ fa-icon: calendar
 ### Workshop Registration 
 
 <div class="card">
+<div class="card-title" markdown="1">
+#### Register with CAMH email
+</div>
 <div class="card-body" markdown="1">
 
 #### Register with CAMH email
@@ -17,13 +20,10 @@ fa-icon: calendar
 The workshop series is **FREE** for all CAMH students, staff, and trainees 
 
 _Please sign up with a CAMH email address, so that we know who you are!._ 
-
+<br>
 <a href="https://www.eventbrite.ca/e/scientific-computing-fundamentals-for-camh-researchers-may-2017-tickets-33593988524" class="button">Register</a>
-
-<br>
-<br>
-<br>
 </div>
+<div class="card-footer"></div>
 </div>
 
 <div class="card">
