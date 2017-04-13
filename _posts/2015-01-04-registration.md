@@ -7,9 +7,7 @@ fa-icon: calendar
 
 {::options parse_block_html="true" /}
 
-### Workshop Registration 
-
-<div class="card" style="min-height: 400px;width: 40rem;">
+<div class="card" style="min-height: 400px;width: 400px;">
 <div class="card-title" markdown="1">
 #### Register with CAMH email
 </div>
@@ -27,7 +25,7 @@ _Please sign up with a CAMH email address, so that we know who you are!._
 <div class="card-footer"></div>
 </div>
 
-<div class="card" style="min-height: 400px;width: 40rem;">
+<div class="card" style="min-height: 400px;width: 400px;">
 <div class="card-title" markdown="1">
 #### Non-CAMH Registration
 </div>
