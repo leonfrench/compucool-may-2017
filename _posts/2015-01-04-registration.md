@@ -9,7 +9,7 @@ fa-icon: calendar
 
 ### Workshop Registration 
 
-<div class="card">
+<div class="card" style="min-height: 300px;">
 <div class="card-title" markdown="1">
 #### Register with CAMH email
 </div>
@@ -27,7 +27,7 @@ _Please sign up with a CAMH email address, so that we know who you are!._
 <div class="card-footer"></div>
 </div>
 
-<div class="card">
+<div class="card" style="min-height: 300px;">
 <div class="card-title" markdown="1">
 #### Non-CAMH Registration
 </div>
