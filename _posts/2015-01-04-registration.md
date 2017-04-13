@@ -40,7 +40,6 @@ All others are welcome to join us for $15-30 per course.
 <a href="https://www.eventbrite.ca/e/scientific-computing-fundamentals-may-2017-tickets-33599080755" class="button">Register & Pay</a>
 
 </div>
-</div>
 <div class="card-footer"></div>
 </div>
 
