@@ -3,14 +3,10 @@ title: Workshop Title
 layout: workshop
 ---
 
-# Spreadsheets with Yuliya and Navona!
+# Spreadsheets with Navona!
 
 --------
 
-**Wifi SSID**: `workshop`
-
-
----------
 
 Please download the following files
 
