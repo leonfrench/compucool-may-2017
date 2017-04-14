@@ -1,13 +1,10 @@
 ---
 title: "Exploring data with R tutorial"
 author: "Erin W Dickie"
-date: "September 11, 2016"
+date: "May 2017"
 output: html_document
 ---
 
-[Return to SCWG Home](https://camh-scwg.github.io/compucool-oct-2016/)
-
------
 
 Please download the following files:
 
