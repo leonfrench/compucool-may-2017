@@ -5,7 +5,7 @@ layout: workshop
 
 # Managing your Experiments and Data
 
-With [Erin Dickie](mailto:erin.dickie@camh.ca) and [Ricardo Harripaul](mailto:R.Harripaul@camh.ca)
+With [Erin Dickie](mailto:erin.dickie@camh.ca) and [Ricardo Harripaul](mailto:R.Harripaul@camh.ca) and [Qing Chang](mailto:qing.chang@camh.ca)
 
 Here are some useful links:
 
