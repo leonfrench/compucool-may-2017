@@ -6,8 +6,6 @@ layout: workshop
 
 --------
 
-**Wifi SSID**: `workshop`
-
 Software you'll need to install:
 
 - **Windows**: [Git for Windows](https://git-for-windows.github.io/), and [MobaXterm](http://mobaxterm.mobatek.net)
