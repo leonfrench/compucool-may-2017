@@ -7,10 +7,6 @@ layout: workshop
 
 --------
 
-**Wifi SSID**: `workshop`
-
-
----------
 
 
 
