@@ -3,14 +3,10 @@ title: Workshop Title
 layout: workshop
 ---
 
-# SPSS with Marcos!
+# SPSS with Marcia & Marcos!
 
 --------
 
-**Wifi SSID**: `workshop`
-
-
----------
 
 Please download the following files
 
