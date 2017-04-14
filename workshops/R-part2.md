@@ -7,10 +7,6 @@ layout: workshop
 
 --------
 
-**Wifi SSID**: `workshop`
-
-
----------
 Please have these both installed (come early if you need help):
 
 - **R**: [Download from here](https://cran.r-project.org/)
