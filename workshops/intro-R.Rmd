@@ -10,10 +10,6 @@ layout: workshop
 
 --------
 
-**Wifi SSID**: `workshop`
-
-
----------
 
 Please have these both installed (come early if you need help):
 
