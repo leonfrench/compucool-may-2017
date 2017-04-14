@@ -3,7 +3,7 @@ title: Intro to R
 layout: workshop
 ---
 
-# R Part 2- with Dan and Erin
+# R Part 2- with Erin
 
 --------
 
