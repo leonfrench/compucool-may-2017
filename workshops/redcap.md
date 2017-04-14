@@ -52,15 +52,5 @@ Please have a REDCap account if you want to follow along.
 
 ---------
 
-***Example instrument for us to upload***
-
-
-[SANS.xlsx](/compucool/workshops/data/SANS.xlsx)
-
----------
-
-***Example data for us to upload***
-
-[SANS_data.csv](/compucool/workshops/data/SANS_data.csv)
 
 
