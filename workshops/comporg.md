@@ -7,8 +7,6 @@ layout: workshop
 
 --------
 
-**Wifi SSID**: `workshop`
-
 Some sample software you'll need to install:
 
 - **Windows**: [Git for Windows](https://git-for-windows.github.io/)
