@@ -7,7 +7,6 @@ layout: workshop
 
 --------
 
-**Wifi SSID**: `workshop`
 
 Some sample software you'll need to install:
 
